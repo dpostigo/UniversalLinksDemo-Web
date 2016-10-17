@@ -1,7 +1,7 @@
 {
   "name": "iOS 9 Universal Links Demo",
   "description": "Web app to demo iOS Universal Links",
-  "repository": "https://github.com/arvindhsukumar/UniversalLinksDemo-Web",
+  "repository": "https://github.com/dpostigo/UniversalLinksDemo-Web",
   "keywords": ["iOS"],
   "scripts": {
     "postdeploy": "bundle exec rake db:reseed"
