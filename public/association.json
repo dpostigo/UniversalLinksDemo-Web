@@ -2,6 +2,10 @@
    "applinks": {
        "apps": [ ], 
        "details": [
+		   	{
+		   		"appID": "VPG29K2SD8.bumpersfm.Bumper",
+				"paths": ["NOT /download", "NOT /_/*", "NOT /assets", "NOT /.well-known/*", "/*"]
+		   	},
            {
                "appID": "VPG29K2SD8.bumpersfm.Bumper-staging",
                "paths": [ "/*" ]
