@@ -4,7 +4,7 @@
        "details": [
            {
                "appID": "VPG29K2SD8.bumpersfm.Bumper-staging",
-               "paths": [ "*", "/join", "/join/*" ]
+               "paths": [ "/*" ]
            }
        ]
     }
